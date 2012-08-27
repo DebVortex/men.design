@@ -1,0 +1,148 @@
+/******************
+ * global changes *
+ ******************/
+
+#visual-portal-wrapper { width: 60em; margin: 0 auto; }
+
+/*****************************************
+ * Site-Header, Searchbox and Navigation *
+ *****************************************/
+
+#portal-globalnav, #portal-globalnav li {
+    background-color: #0E6B5B;
+}
+
+
+#portal-globalnav li a {
+    background-color: #0E6B5B;
+    text-align: center;
+    padding: 0.5em;
+    color: #FFFFFF;
+}
+
+#portal-globalnav .selected a, #portal-globalnav a:hover {
+    background-color: #5FA398;
+    color: #FFFFFF;
+}
+
+#portal-globalnav .selected a:hover {
+    background-color: #0E6B5B;
+    color: #FFFFFF;
+}
+
+#portal-personaltools {
+    background-color: #5FA398;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
+
+
+#portal-languageselector {
+    background-color: #5FA398;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
+
+
+#portal-personaltools a{
+    color: #FFFFFF;
+}
+
+#portal-personaltools dd {
+    background-color: #5FA398;
+    margin: 0.5em;
+    border-radius: 1em;
+}
+
+#portal-personaltools dd a {
+    background-color: #5FA398;
+}
+
+#portal-personaltools dd a:hover {
+    background-color: #0E6B5B;
+}
+
+/****************
+ * Site-Content *
+ ****************/
+
+#edit-bar, #content ul.formTabs {
+    background-color: #5FA398;
+    border-radius: 0.5em;
+    border-color: #5FA398;
+}
+
+#content-views {
+    margin-left: 0.1em;
+    background-color: #5FA398;
+}
+
+#contentActionMenus, #contentActionMenus dl.actionMenu a, #contentActionMenus dl.actionMenu.activated dd {
+    background-color: #5FA398;
+}
+#contentActionMenus dl.actionMenu.activated dd {
+    border-color: #5FA398;
+}
+
+#content-views a, #content li.formTab a {
+    color: #FFFFFF;
+}
+
+#content li.formTab a:hover {
+    color: #0E6B5B!important;
+}
+
+a.managePortletsFallback, .managePortletsLink, .managePortletsLink a {
+    color: #FFFFFF;
+    background-color: #5FA398!important;
+}
+
+div.portletHeader {
+    color: #FFFFFF;
+    background-color: #5FA398!important;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+
+div.portletHeader a {
+    color: #FFFFFF;
+}
+
+dl.portlet ul.navTreeLevel0 > .navTreeItem {
+    border-bottom: 0.1em dotted #0E6B5B;
+}
+
+dl.portlet ul.navTree .navTreeCurrentItem {
+    background-color: #5FA398!important;
+    border-left: 1em solid #5FA398;
+}
+
+dl.portlet ul.navTree .navTreeCurrentItem {
+    color: #FFFFFF;
+}
+
+
+/***************
+ * Site-Footer *
+ ***************/
+
+#portal-footer {
+    background-color: #0E6B5B;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 0.5em;
+}
+
+#portal-footer a {
+    color: #FFFFFF;
+}
+
+#portal-colophon {
+    color: #FFFFFF;
+    margin-bottom: 0em;
+}
+
+#portal-siteactions li a{
+    font-size: 70%;
+    color: #484848;
+}
