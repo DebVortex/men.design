@@ -33,9 +33,11 @@ men/design/profiles/default/men.design_various.txt
 men/design/profiles/default/metadata.xml
 men/design/profiles/default/skins.xml
 men/design/profiles/default/viewlets.xml
-men/design/skins/nimc_design_custom_images/CONTENT.txt
-men/design/skins/nimc_design_custom_templates/.objects
-men/design/skins/nimc_design_custom_templates/CONTENT.txt
-men/design/skins/nimc_design_custom_templates/ploneCustom.css.dtml
-men/design/skins/nimc_design_styles/CONTENT.txt
-men/design/skins/nimc_design_styles/base_properties.props
+men/design/skins/men_design_custom_images/CONTENT.txt
+men/design/skins/men_design_custom_images/LOGO_maint_edu_net_330pxHSB.png
+men/design/skins/men_design_custom_images/logo.jpg
+men/design/skins/men_design_custom_templates/.objects
+men/design/skins/men_design_custom_templates/CONTENT.txt
+men/design/skins/men_design_custom_templates/ploneCustom.css.dtml
+men/design/skins/men_design_styles/CONTENT.txt
+men/design/skins/men_design_styles/base_properties.props
