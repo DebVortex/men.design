@@ -9,36 +9,36 @@
  *****************************************/
 
 #portal-globalnav, #portal-globalnav li {
-    background-color: #0E6B5B;
+    background-color: #00385B;
 }
 
 
 #portal-globalnav li a {
-    background-color: #0E6B5B;
+    background-color: #00385B;
     text-align: center;
     padding: 0.5em;
     color: #FFFFFF;
 }
 
 #portal-globalnav .selected a, #portal-globalnav a:hover {
-    background-color: #5FA398;
+    background-color: #055282;
     color: #FFFFFF;
 }
 
 #portal-globalnav .selected a:hover {
-    background-color: #0E6B5B;
+    background-color: #00385B;
     color: #FFFFFF;
 }
 
 #portal-personaltools {
-    background-color: #5FA398;
+    background-color: #055282;
     border-bottom-left-radius: 1em;
     border-bottom-right-radius: 1em;
 }
 
 
 #portal-languageselector {
-    background-color: #5FA398;
+    background-color: #055282;
     border-bottom-left-radius: 1em;
     border-bottom-right-radius: 1em;
 }
@@ -49,17 +49,17 @@
 }
 
 #portal-personaltools dd {
-    background-color: #5FA398;
+    background-color: #055282;
     margin: 0.5em;
     border-radius: 1em;
 }
 
 #portal-personaltools dd a {
-    background-color: #5FA398;
+    background-color: #055282;
 }
 
 #portal-personaltools dd a:hover {
-    background-color: #0E6B5B;
+    background-color: #00385B;
 }
 
 /****************
@@ -67,21 +67,21 @@
  ****************/
 
 #edit-bar, #content ul.formTabs {
-    background-color: #5FA398;
+    background-color: #055282;
     border-radius: 0.5em;
-    border-color: #5FA398;
+    border-color: #055282;
 }
 
 #content-views {
     margin-left: 0.1em;
-    background-color: #5FA398;
+    background-color: #055282;
 }
 
 #contentActionMenus, #contentActionMenus dl.actionMenu a, #contentActionMenus dl.actionMenu.activated dd {
-    background-color: #5FA398;
+    background-color: #055282;
 }
 #contentActionMenus dl.actionMenu.activated dd {
-    border-color: #5FA398;
+    border-color: #055282;
 }
 
 #content-views a, #content li.formTab a {
@@ -89,17 +89,17 @@
 }
 
 #content li.formTab a:hover {
-    color: #0E6B5B!important;
+    color: #00385B!important;
 }
 
 a.managePortletsFallback, .managePortletsLink, .managePortletsLink a {
     color: #FFFFFF;
-    background-color: #5FA398!important;
+    background-color: #055282!important;
 }
 
 div.portletHeader {
     color: #FFFFFF;
-    background-color: #5FA398!important;
+    background-color: #055282!important;
     border-top-left-radius: 1em;
     border-top-right-radius: 1em;
 }
@@ -109,12 +109,12 @@ div.portletHeader a {
 }
 
 dl.portlet ul.navTreeLevel0 > .navTreeItem {
-    border-bottom: 0.1em dotted #0E6B5B;
+    border-bottom: 0.1em dotted #00385B;
 }
 
 dl.portlet ul.navTree .navTreeCurrentItem {
-    background-color: #5FA398!important;
-    border-left: 1em solid #5FA398;
+    background-color: #055282!important;
+    border-left: 1em solid #055282;
 }
 
 dl.portlet ul.navTree .navTreeCurrentItem {
@@ -127,7 +127,7 @@ dl.portlet ul.navTree .navTreeCurrentItem {
  ***************/
 
 #portal-footer {
-    background-color: #0E6B5B;
+    background-color: #00385B;
     color: #FFFFFF;
     text-align: center;
     padding: 0.5em;
